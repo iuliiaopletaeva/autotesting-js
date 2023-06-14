@@ -1,0 +1,17 @@
+{
+  "name": "2.5.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test/socksclubnew.js",
+  "scripts": {
+    "test": "mocha --timeout 10000  --require hooks.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "chromedriver": "^114.0.1",
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.9.2"
+  }
+}
